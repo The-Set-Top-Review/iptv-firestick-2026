@@ -68,3 +68,6 @@ cheaper but its IPTV story is worse — fewer good apps run on it cleanly.
 - Apple TV 4K as IPTV box (planned)
 - NVIDIA Shield TV in 2026 (planned, retesting after recent firmware)
 - Streaming-service technical comparison: [streamreviewhq.com](https://streamreviewhq.com)
+
+---
+*Last verified: May 29, 2026*
