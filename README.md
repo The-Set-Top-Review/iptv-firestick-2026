@@ -70,4 +70,4 @@ cheaper but its IPTV story is worse — fewer good apps run on it cleanly.
 - Streaming-service technical comparison: [streamreviewhq.com](https://streamreviewhq.com)
 
 ---
-*Last verified: July 17, 2026*
+*Last verified: July 18, 2026*
